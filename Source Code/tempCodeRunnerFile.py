@@ -1,0 +1,1 @@
+obstacle_rect
