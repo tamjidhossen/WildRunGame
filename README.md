@@ -6,6 +6,7 @@ Players can select any character from these four to play the game with.
 <img width="600" alt="menu" src="https://user-images.githubusercontent.com/96368353/227758656-48dcf969-851b-404a-99af-ff2b1513d1f5.png">
 
 GamePlay:
+
 <img width="599" alt="jump" src="https://user-images.githubusercontent.com/96368353/227758704-3242f696-ae98-4a63-8236-192cba818b42.png">
 
 
